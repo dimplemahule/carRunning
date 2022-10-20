@@ -1,6 +1,6 @@
 var x;
 var m=0;
-function start()
+function start();
 {
  x=setInterval(anim,100);
  
